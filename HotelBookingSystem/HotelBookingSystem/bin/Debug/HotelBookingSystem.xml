@@ -1,0 +1,60 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HotelBookingSystem
+</name>
+</assembly>
+<members>
+<member name="P:HotelBookingSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HotelBookingSystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:HotelBookingSystem.My.Resources.Resources.icons8_add_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HotelBookingSystem.My.Resources.Resources.icons8_add_24__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HotelBookingSystem.My.Resources.Resources.icons8_bed_24__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HotelBookingSystem.My.Resources.Resources.icons8_booking_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HotelBookingSystem.My.Resources.Resources.icons8_booking_28">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HotelBookingSystem.My.Resources.Resources.icons8_employee_24__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HotelBookingSystem.My.Resources.Resources.icons8_employee_28">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HotelBookingSystem.My.Resources.Resources.icons8_logout_24__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HotelBookingSystem.My.Resources.Resources.icons8_menu_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:HotelBookingSystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
